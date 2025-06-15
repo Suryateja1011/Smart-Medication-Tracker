@@ -1,10 +1,11 @@
-# my_first_app
+Medimate - IoT-Based Smart Tablet Dispenser
+Medimate is an IoT-based Flutter application that works in sync with a smart hardware dispenser system to automate and monitor the intake of medications. It is specifically designed for elderly individuals and patients with chronic illnesses who need timely reminders and caregivers' support for medication adherence.
 
-A new Flutter project.
+🧠 Problem Statement
+Medication non-adherence can lead to serious health issues, especially among the elderly and cognitively impaired. Existing manual methods like pill boxes or alarms lack real-time tracking and remote monitoring.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+.
 
 A few resources to get you started if this is your first Flutter project:
 
